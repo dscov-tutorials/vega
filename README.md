@@ -2,7 +2,7 @@
 
 This repo contains the notebooks show during the 4/18/19 DSCoV tutorial on Vega.
 
-* JS
+* JS [Observable notebook](https://observablehq.com/@mcmcgrath13/javascript-vega-portability-demo)
 * Julia
 * Python
 * R
