@@ -1,0 +1,9 @@
+
+repo:             vega
+site_name:        "Basics of Data Exploration and Visualization with Vega"
+authors:      
+  - name: Mary McGrath
+    github_user: mcmcgrath13
+site_description: "Vega is an interactive grammar of graphics for creating, saving, and sharing visualizations.  In this workshop, we’ll explore a dataset with DataVoyager, create an interactive flight map with Vega, and show how to use Vega with JavaScript, Julia, Python, and R."
+docs_url:         https://bit.ly/2ItYMfd
+type:             workshop    # required. choose one of [software, tutorial, workshop, documentation]
